@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background:#F5F5DC;
+}
+
+body
+{
+    background-color:#F5F5DC;
+	color:#F5F5DC;
+}
+
